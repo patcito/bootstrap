@@ -3,7 +3,6 @@
   "version": "3.0.3",
   "main": [
     "./dist/css/bootstrap.css",
-    "./dist/js/bootstrap.js",
     "./dist/fonts/glyphicons-halflings-regular.eot",
     "./dist/fonts/glyphicons-halflings-regular.svg",
     "./dist/fonts/glyphicons-halflings-regular.ttf",
@@ -17,8 +16,5 @@
     "CONTRIBUTING.md",
     "docs",
     "js/tests"
-  ],
-  "dependencies": {
-    "jquery": ">= 1.9.0"
-  }
+  ]
 }
